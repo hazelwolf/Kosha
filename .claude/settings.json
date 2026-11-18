@@ -1,0 +1,24 @@
+{
+  "enabledPlugins": {
+    "security-audit@nv-plugins": false,
+    "novibe@nv-plugins": false,
+    "mattpocock-skills@mattpocock": true,
+    "novibe@anthropic-plugin-directory": false,
+    "mattpocock-skills@claude-plugins-official": false,
+    "novibe@synced": false
+  },
+  "extraKnownMarketplaces": {
+    "nv-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "novibe-org/novibe"
+      }
+    },
+    "mattpocock": {
+      "source": {
+        "source": "github",
+        "repo": "mattpocock/skills"
+      }
+    }
+  }
+}
