@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Kosha icon: an open book glowing under a lamp">
+  <defs>
+    <linearGradient id="room" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a2a16"/>
+      <stop offset="1" stop-color="#1c120c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="60" cy="61" r="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6c76f" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#f6c76f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="120" height="120" rx="27" fill="url(#room)"/>
+  <circle cx="60" cy="61" r="46" fill="url(#glow)"/>
+  <path d="M60 10v15" stroke="#e0b366" stroke-width="3" stroke-linecap="round"/>
+  <path d="M40 43c1-11 9-18 20-18s19 7 20 18z" fill="#2f6a4f"/>
+  <path d="M40 43h40" stroke="#e0b366" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="60" cy="47" r="5" fill="#ffe2a3"/>
+  <path d="M60 72C50 64 36 63 22 66v32c14-3 28-2 38 6 10-8 24-9 38-6V66c-14-3-28-2-38 6z" fill="#f5e6c7"/>
+  <path d="M60 72v32" stroke="#a9773f" stroke-width="2.5"/>
+  <path d="M31 76c8-1 15 0 21 3M31 85c8-1 15 0 21 3M89 76c-8-1-15 0-21 3M89 85c-8-1-15 0-21 3" fill="none" stroke="#b9925c" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
